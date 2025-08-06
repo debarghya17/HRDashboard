@@ -1,6 +1,6 @@
 # HR Dashboard Power BI Project
 
-<img width="2129" height="1202" alt="HRDashboard" src="https://github.com/user-attachments/assets/4466ce3e-7f68-46b5-a4d1-fa667cd23a74" />
+<img width="1129" height="202" alt="HRDashboard" src="https://github.com/user-attachments/assets/4466ce3e-7f68-46b5-a4d1-fa667cd23a74" />
 
 ## Overview
 This project showcases an interactive HR Dashboard built using Microsoft Power BI. The dashboard provides comprehensive insights into employee data, focusing on key HR metrics such as retention, workforce management, and performance analysis.
