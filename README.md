@@ -12,6 +12,12 @@ This project showcases an interactive HR Dashboard built using Microsoft Power B
 - **Salary Insights**: Compare salary distributions across different roles and departments.
 - **Leave Management**: Monitor leave balances and trends to ensure optimal workforce management.
 
+## ⚙️ Tech Stack
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
 ## Data Sources
 The data for this dashboard is sourced from various HR systems and includes information on employee demographics, performance, salaries, and leave balances.
 
